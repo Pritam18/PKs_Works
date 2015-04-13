@@ -1,0 +1,36 @@
+E:\2-1\APL\projects\Car\BO\bin\Debug\BO.dll
+E:\2-1\APL\projects\Car\BO\bin\Debug\BO.pdb
+E:\2-1\APL\projects\Car\BO\bin\Debug\DAL.dll
+E:\2-1\APL\projects\Car\BO\bin\Debug\ENTITY.dll
+E:\2-1\APL\projects\Car\BO\bin\Debug\DAL.pdb
+E:\2-1\APL\projects\Car\BO\bin\Debug\ENTITY.pdb
+E:\2-1\APL\projects\Car\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+E:\2-1\APL\projects\Car\BO\obj\Debug\BO.dll
+E:\2-1\APL\projects\Car\BO\obj\Debug\BO.pdb
+E:\Code\Car\BO\bin\Debug\BO.dll
+E:\Code\Car\BO\bin\Debug\BO.pdb
+E:\Code\Car\BO\bin\Debug\DAL.dll
+E:\Code\Car\BO\bin\Debug\ENTITY.dll
+E:\Code\Car\BO\bin\Debug\DAL.pdb
+E:\Code\Car\BO\bin\Debug\ENTITY.pdb
+E:\Code\Car\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+E:\Code\Car\BO\obj\Debug\BO.dll
+E:\Code\Car\BO\obj\Debug\BO.pdb
+E:\MY TEXT\PROGRAMMING\Project C#\Car\BO\bin\Debug\BO.dll
+E:\MY TEXT\PROGRAMMING\Project C#\Car\BO\bin\Debug\BO.pdb
+E:\MY TEXT\PROGRAMMING\Project C#\Car\BO\bin\Debug\DAL.dll
+E:\MY TEXT\PROGRAMMING\Project C#\Car\BO\bin\Debug\ENTITY.dll
+E:\MY TEXT\PROGRAMMING\Project C#\Car\BO\bin\Debug\DAL.pdb
+E:\MY TEXT\PROGRAMMING\Project C#\Car\BO\bin\Debug\ENTITY.pdb
+E:\MY TEXT\PROGRAMMING\Project C#\Car\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+E:\MY TEXT\PROGRAMMING\Project C#\Car\BO\obj\Debug\BO.dll
+E:\MY TEXT\PROGRAMMING\Project C#\Car\BO\obj\Debug\BO.pdb
+E:\MY TEXT\PROGRAMMING\Project C#\Projects\Car 2\BO\bin\Debug\BO.dll
+E:\MY TEXT\PROGRAMMING\Project C#\Projects\Car 2\BO\bin\Debug\BO.pdb
+E:\MY TEXT\PROGRAMMING\Project C#\Projects\Car 2\BO\bin\Debug\DAL.dll
+E:\MY TEXT\PROGRAMMING\Project C#\Projects\Car 2\BO\bin\Debug\ENTITY.dll
+E:\MY TEXT\PROGRAMMING\Project C#\Projects\Car 2\BO\bin\Debug\DAL.pdb
+E:\MY TEXT\PROGRAMMING\Project C#\Projects\Car 2\BO\bin\Debug\ENTITY.pdb
+E:\MY TEXT\PROGRAMMING\Project C#\Projects\Car 2\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+E:\MY TEXT\PROGRAMMING\Project C#\Projects\Car 2\BO\obj\Debug\BO.dll
+E:\MY TEXT\PROGRAMMING\Project C#\Projects\Car 2\BO\obj\Debug\BO.pdb

@@ -1,0 +1,20 @@
+E:\2-1\APL\projects\Car\ENTITY\bin\Debug\ENTITY.dll
+E:\2-1\APL\projects\Car\ENTITY\bin\Debug\ENTITY.pdb
+E:\2-1\APL\projects\Car\ENTITY\obj\Debug\ENTITY.csprojResolveAssemblyReference.cache
+E:\2-1\APL\projects\Car\ENTITY\obj\Debug\ENTITY.dll
+E:\2-1\APL\projects\Car\ENTITY\obj\Debug\ENTITY.pdb
+E:\Code\Car\ENTITY\bin\Debug\ENTITY.dll
+E:\Code\Car\ENTITY\bin\Debug\ENTITY.pdb
+E:\Code\Car\ENTITY\obj\Debug\ENTITY.csprojResolveAssemblyReference.cache
+E:\Code\Car\ENTITY\obj\Debug\ENTITY.dll
+E:\Code\Car\ENTITY\obj\Debug\ENTITY.pdb
+E:\MY TEXT\PROGRAMMING\Project C#\Car\ENTITY\bin\Debug\ENTITY.dll
+E:\MY TEXT\PROGRAMMING\Project C#\Car\ENTITY\bin\Debug\ENTITY.pdb
+E:\MY TEXT\PROGRAMMING\Project C#\Car\ENTITY\obj\Debug\ENTITY.csprojResolveAssemblyReference.cache
+E:\MY TEXT\PROGRAMMING\Project C#\Car\ENTITY\obj\Debug\ENTITY.dll
+E:\MY TEXT\PROGRAMMING\Project C#\Car\ENTITY\obj\Debug\ENTITY.pdb
+E:\MY TEXT\PROGRAMMING\Project C#\Projects\Car 2\ENTITY\bin\Debug\ENTITY.dll
+E:\MY TEXT\PROGRAMMING\Project C#\Projects\Car 2\ENTITY\bin\Debug\ENTITY.pdb
+E:\MY TEXT\PROGRAMMING\Project C#\Projects\Car 2\ENTITY\obj\Debug\ENTITY.csprojResolveAssemblyReference.cache
+E:\MY TEXT\PROGRAMMING\Project C#\Projects\Car 2\ENTITY\obj\Debug\ENTITY.dll
+E:\MY TEXT\PROGRAMMING\Project C#\Projects\Car 2\ENTITY\obj\Debug\ENTITY.pdb
