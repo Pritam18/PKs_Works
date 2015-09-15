@@ -1,0 +1,49 @@
+
+#include<stdio.h>
+int main()
+{
+    long long int n,t,p,q,s,a;
+    while(scanf("%lld",&n))
+    {
+        if(n<0)
+        {
+            break;
+        }
+        t=n;
+        if(n%3==0)
+        {
+            n=n+1;
+        }
+        q=0;
+        for(;;)
+        {
+            p=n%3;
+            n=n/3;
+            q=q*10+p;
+            if(n==0)
+            {
+                break;
+            }
+        }
+        s=0;
+        for(;;)
+        {
+            a=q%10;
+            q=q/10;
+            s=s*10+a;
+            if(q==0)
+            {
+                break;
+            }
+        }
+        if(t%3==0)
+        {
+            printf("%lld\n",s-1);
+        }
+        else
+        {
+            printf("%lld\n",s);
+        }
+    }
+}
+
